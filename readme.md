@@ -17,9 +17,3 @@ Um projeto fullstack que une o modelo tradicional de APIs REST com a comunicaç�
 *   **Frontend:** HTML5, CSS3, JavaScript (Fetch API + Socket.IO Client)
 *   **Testes:** Pytest
 
-## ⚙️ Como rodar o projeto localmente
-
-1. **Clone o repositório:**
-   ```bash
-   git clone [https://github.com/SEU_USUARIO/livepoll.git](https://github.com/SEU_USUARIO/livepoll.git)
-   cd livepoll
